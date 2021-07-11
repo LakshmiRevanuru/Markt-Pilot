@@ -1,6 +1,7 @@
 Objective:-
 A friend's grandma regularly knits socks. But she spends way too much money on the wool at the craft shop next door. You want to program her a comparison portal for wool. The portal is intended to display wool ball information from various websites. To do this, you want to start with a first website, the Wool place1, Read out information
 automatically. You are interested in the price, the delivery time, the needle size and the composition. You first selected the following balls for which you have the information want:
+
 ----------------------------------
 brand      | description          |
 ----------------------------------|
